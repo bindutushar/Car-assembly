@@ -1,5 +1,5 @@
 build car:
-..image:alpine
+..image:.alpine
 ..script:
 ....-.echo. "Building the car"
 ....-.mkdir.build
